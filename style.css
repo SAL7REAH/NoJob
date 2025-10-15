@@ -130,6 +130,7 @@
                 width: 100%;
                 height: 200px;
                 object-fit: contain;
+                cursor: pointer;
             }
 
             p {
@@ -257,4 +258,5 @@ footer {
     .footer-item iframe {
         width: 200px;
         height: auto;
+
     }
